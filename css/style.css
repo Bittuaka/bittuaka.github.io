@@ -453,15 +453,15 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/me2.jpg') right bottom no-repeat;
+	background: url('../img/me2NewSize1.jpg') right bottom no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
-	background-color: #FBFBFB;
+	background-color: rgb(241, 242, 243);
 }
 .hero h1 {
-	font-size: 120px;
-	letter-spacing: -8px;
+	font-size: 3em !important;
+	letter-spacing: -4px !important;
 	margin: 0;
 	font-weight: 600;
 	line-height: 95px;
